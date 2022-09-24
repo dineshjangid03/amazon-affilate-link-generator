@@ -1,0 +1,21 @@
+input{
+    width: 292px;
+    height: 30px;
+}
+#box1,#box2{
+    width: 300px;
+    margin: auto;
+}
+button{
+    width: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 8px;
+}
+#aid{
+    margin-top: 8px;
+}
+#spn{
+    font-weight: bold;
+    font-size: 18px;
+}
