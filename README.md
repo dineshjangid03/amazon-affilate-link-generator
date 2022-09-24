@@ -1,0 +1,1 @@
+# amazon-affilate-link-generator
